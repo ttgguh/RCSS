@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 3em;
+    margin: .1em;
+}
+h2{
+    font-size: 2.6em;
+    margin: .1em;
+}
+h3{
+    font-size: 2.2em;
+    margin: .1em;
+}
+h4{
+    font-size: 1.8em;
+    margin: .1em;
+}
+h5{
+    font-size: 1.4em;
+    margin: .1em;
+}
+h6{
+    font-size: 1em;
+    margin: .1em;
+}
+
+.text-primary{
+    color: #66f;
+}
+.bg-primary{
+    background: #66f;
+    color: #fff;
+}
+.bg-success{
+    background: #6f6;
+    color: #000;
+}
