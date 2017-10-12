@@ -27,14 +27,49 @@ h6{
     margin: .1em;
 }
 
-.text-primary{
+.text-blue{
     color: #66f;
 }
-.bg-primary{
-    background: #66f;
+.bg-blue{
+    background: #17f;
     color: #fff;
 }
-.bg-success{
+.bg-green{
     background: #6f6;
     color: #000;
+}
+
+button, 
+insert[type='button'], 
+insert[type='submit'], 
+.btn{
+    border: .01rem solid #aaa;
+    background: #fff;
+    font-size: 1.5rem;
+    margin: 3px;
+    border-radius: .3rem;
+}
+
+button.lg,
+insert[type='button'].lg,
+insert[type='submit'].lg,
+.btn.lg{
+    font-size: 2rem !important;
+    margin: 5px !important;
+}
+
+button.md,
+insert[type='button'].md,
+insert[type='submit'].md,
+.btn.md{
+    font-size: 1.5rem !important;
+    margin: 3px !important;
+}
+
+button.sm,
+insert[type='button'].sm,
+insert[type='submit'].sm,
+.btn.sm{
+    font-size: 1rem !important;
+    margin: 1px !important;
 }
