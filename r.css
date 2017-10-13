@@ -52,6 +52,186 @@ a:active{
     background: #6f6;
     color: #000;
 }
+.bg-red{
+	background-color: #f00;
+	}
+.bg-red-light-1{
+	background-color: #f22;
+	}
+.bg-red-light-2{
+	background-color: #f44;
+	}
+.bg-red-light-3{
+	background-color: #f66;
+	}
+.bg-red-light-4{
+	background-color: #f88;
+	}
+.bg-red-light-5{
+	background-color: #faa;
+	}
+.bg-red-dark-1{
+	background-color: #d00;
+	}
+.bg-red-dark-2{
+	background-color: #b00;
+	}
+.bg-red-dark-3{
+	background-color: #900;
+	}
+.bg-red-dark-4{
+	background-color: #700;
+	}
+.bg-red-dark-5{
+	background-color: #500;
+	}
+.bg-red-tran-1{
+	background-color: rgba(255, 0, 0, 0.2);
+	}
+.bg-red-tran-2{
+	background-color: rgba(255, 0, 0, 0.4);
+	}
+.bg-red-tran-3{
+	background-color: rgba(255, 0, 0, 0.6);
+	}
+.bg-red-tran-4{
+	background-color: rgba(255, 0, 0, 0.8);
+	}
+.bg-yellow{
+	background-color: #ff0;
+	}
+.bg-yellow-light-1{
+	background-color: #ff2;
+	}
+.bg-yellow-light-2{
+	background-color: #ff4;
+	}
+.bg-yellow-light-3{
+	background-color: #ff6;
+	}
+.bg-yellow-light-4{
+	background-color: #ff8;
+	}
+.bg-yellow-light-5{
+	background-color: #ffa;
+	}
+.bg-yellow-dark-1{
+	background-color: #dd0;
+	}
+.bg-yellow-dark-2{
+	background-color: #bb0;
+	}
+.bg-yellow-dark-3{
+	background-color: #990;
+	}
+.bg-yellow-dark-4{
+	background-color: #770;
+	}
+.bg-yellow-dark-5{
+	background-color: #550;
+	}
+.bg-yellow-tran-1{
+	background-color: rgba(255, 255, 0, 0.2);
+	}
+.bg-yellow-tran-2{
+	background-color: rgba(255, 255, 0, 0.4);
+	}
+.bg-yellow-tran-3{
+	background-color: rgba(255, 255, 0, 0.6);
+	}
+.bg-yellow-tran-4{
+	background-color: rgba(255, 255, 0, 0.8);
+	}
+.bg-cyan{
+	background-color: #0ff;
+	}
+.bg-cyan-light-1{
+	background-color: #2ff;
+	}
+.bg-cyan-light-2{
+	background-color: #4ff;
+	}
+.bg-cyan-light-3{
+	background-color: #6ff;
+	}
+.bg-cyan-light-4{
+	background-color: #8ff;
+	}
+.bg-cyan-light-5{
+	background-color: #aff;
+	}
+.bg-cyan-dark-1{
+	background-color: #0dd;
+	}
+.bg-cyan-dark-2{
+	background-color: #0bb;
+	}
+.bg-cyan-dark-3{
+	background-color: #099;
+	}
+.bg-cyan-dark-4{
+	background-color: #077;
+	}
+.bg-cyan-dark-5{
+	background-color: #055;
+	}
+.bg-cyan-tran-1{
+	background-color: rgba(0, 255, 255, 0.2);
+	}
+.bg-cyan-tran-2{
+	background-color: rgba(0, 255, 255, 0.4);
+	}
+.bg-cyan-tran-3{
+	background-color: rgba(0, 255, 255, 0.6);
+	}
+.bg-cyan-tran-4{
+	background-color: rgba(0, 255, 255, 0.8);
+	}
+.bg-magenta{
+	background-color: #f0f;
+	}
+.bg-magenta-light-1{
+	background-color: #f2f;
+	}
+.bg-magenta-light-2{
+	background-color: #f4f;
+	}
+.bg-magenta-light-3{
+	background-color: #f6f;
+	}
+.bg-magenta-light-4{
+	background-color: #f8f;
+	}
+.bg-magenta-light-5{
+	background-color: #faf;
+	}
+.bg-magenta-dark-1{
+	background-color: #d0d;
+	}
+.bg-magenta-dark-2{
+	background-color: #b0b;
+	}
+.bg-magenta-dark-3{
+	background-color: #909;
+	}
+.bg-magenta-dark-4{
+	background-color: #707;
+	}
+.bg-magenta-dark-5{
+	background-color: #505;
+	}
+.bg-magenta-tran-1{
+	background-color: rgba(255, 0, 255, 0.2);
+	}
+.bg-magenta-tran-2{
+	background-color: rgba(255, 0, 255, 0.4);
+	}
+.bg-magenta-tran-3{
+	background-color: rgba(255, 0, 255, 0.6);
+	}
+.bg-magenta-tran-4{
+	background-color: rgba(255, 0, 255, 0.8);
+	}
 
 button, 
 insert[type='button'], 
